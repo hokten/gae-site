@@ -73,6 +73,7 @@ INSTALLED_APPS = (
     'appenginepatcher',
     'myapp',
     'registration',
+    'gaesite',
     'mediautils',
 )
 
